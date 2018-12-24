@@ -1,0 +1,1860 @@
+{
+  "Maps": [
+    {
+      "name": "2v2 Boogie-Woogie",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.375",
+      "valid": true
+    },
+    {
+      "name": "6-Icelands_v5",
+      "size": "10x10",
+      "category": "common",
+      "broken": true,
+      "Tscore": "2.9",
+      "valid": true
+    },
+    {
+      "name": "8 - Badlands_v4",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.575",
+      "valid": true
+    },
+    {
+      "name": "Abhor",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.7",
+      "valid": true
+    },
+    {
+      "name": "Abis Garden 1v1",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.2",
+      "valid": true
+    },
+    {
+      "name": "AdaptiveActavia",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.65",
+      "valid": true
+    },
+    {
+      "name": "Africa",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.8",
+      "valid": true
+    },
+    {
+      "name": "Ambush Pass",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.95",
+      "valid": true
+    },
+    {
+      "name": "Anchor",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3",
+      "valid": true
+    },
+    {
+      "name": "Ancients Valley",
+      "size": "5x5",
+      "category": "new",
+      "broken": true,
+      "Tscore": "2.05",
+      "valid": true
+    },
+    {
+      "name": "Apchui",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.45",
+      "valid": true
+    },
+    {
+      "name": "Aperture Laboratories",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": true,
+      "Tscore": "2.775",
+      "valid": true
+    },
+    {
+      "name": "Arcane",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.275",
+      "valid": true
+    },
+    {
+      "name": "Arctic Refuge",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.55",
+      "valid": true
+    },
+    {
+      "name": "Ares",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.9375",
+      "valid": true
+    },
+    {
+      "name": "Asteria",
+      "size": "20x20",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.25",
+      "valid": true
+    },
+    {
+      "name": "Asyut Canals",
+      "size": "20x20",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.55",
+      "valid": true
+    },
+    {
+      "name": "Auralian - The Core",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.125",
+      "valid": true
+    },
+    {
+      "name": "Averus",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.025",
+      "valid": true
+    },
+    {
+      "name": "Balmy",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "1.75",
+      "valid": true
+    },
+    {
+      "name": "Balvery Mountains V2",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.2",
+      "valid": true
+    },
+    {
+      "name": "Balvery Mountains V4b",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.8",
+      "valid": true
+    },
+    {
+      "name": "Banana Beach",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.375",
+      "valid": true
+    },
+    {
+      "name": "Better Isis",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.95",
+      "valid": true
+    },
+    {
+      "name": "Blasted Rock",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.25",
+      "valid": true
+    },
+    {
+      "name": "break V3",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "1.25",
+      "valid": true
+    },
+    {
+      "name": "Broken_Vows",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.5",
+      "valid": true
+    },
+    {
+      "name": "Burial",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.95",
+      "valid": true
+    },
+    {
+      "name": "Burial Mounds",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "1",
+      "valid": true
+    },
+    {
+      "name": "Cadmium Green",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.55",
+      "valid": true
+    },
+    {
+      "name": "Callisto",
+      "size": "5x5",
+      "category": "new",
+      "broken": true,
+      "Tscore": "2.15",
+      "valid": true
+    },
+    {
+      "name": "Canaveral",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.25",
+      "valid": true
+    },
+    {
+      "name": "canis 4v4 spezial edition",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.25",
+      "valid": true
+    },
+    {
+      "name": "Canis 4v4 Spread Edition",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": true,
+      "Tscore": "2.7",
+      "valid": true
+    },
+    {
+      "name": "Canis Decals Edition 4v4",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.275",
+      "valid": true
+    },
+    {
+      "name": "Canis River",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.7",
+      "valid": true
+    },
+    {
+      "name": "Cepheus",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "1.8",
+      "valid": true
+    },
+    {
+      "name": "Chiron",
+      "size": "20x20",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.6",
+      "valid": true
+    },
+    {
+      "name": "Cloud Kingdom LE",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.15",
+      "valid": true
+    },
+    {
+      "name": "Cobalt Valley",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "4",
+      "valid": true
+    },
+    {
+      "name": "Coldfire Crossing",
+      "size": "20x20",
+      "category": "new",
+      "broken": false,
+      "Tscore": "4",
+      "valid": true
+    },
+    {
+      "name": "Comet Catcher",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.025",
+      "valid": true
+    },
+    {
+      "name": "Comet Catcher V2",
+      "size": "10x10",
+      "category": "common",
+      "broken": true,
+      "Tscore": "2.575",
+      "valid": true
+    },
+    {
+      "name": "Concord Lake",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "3.25",
+      "valid": true
+    },
+    {
+      "name": "corporation_small",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.75",
+      "valid": true
+    },
+    {
+      "name": "Crag Drunes",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.25",
+      "valid": true
+    },
+    {
+      "name": "Crashing Waves",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.8",
+      "valid": true
+    },
+    {
+      "name": "crazyrush",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.5",
+      "valid": true
+    },
+    {
+      "name": "Crimson Feud",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.25",
+      "valid": true
+    },
+    {
+      "name": "Crossfire Canal",
+      "size": "20x20",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "4.425",
+      "valid": true
+    },
+    {
+      "name": "Darkfall",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "3.25",
+      "valid": true
+    },
+    {
+      "name": "Daroza's Sanctuary",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.7",
+      "valid": true
+    },
+    {
+      "name": "desert arena",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.3",
+      "valid": true
+    },
+    {
+      "name": "Desert Joust",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.8",
+      "valid": true
+    },
+    {
+      "name": "Desert Planet II v2",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.8",
+      "valid": true
+    },
+    {
+      "name": "Devils Landings Ladder",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "1.525",
+      "valid": true
+    },
+    {
+      "name": "Dirty_Mounds",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.175",
+      "valid": true
+    },
+    {
+      "name": "Diversity",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.25",
+      "valid": true
+    },
+    {
+      "name": "Dragon River 1vs1",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.125",
+      "valid": true
+    },
+    {
+      "name": "Dry Canyon v3",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "1.7",
+      "valid": true
+    },
+    {
+      "name": "Dual Arches",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": true,
+      "Tscore": "2.85",
+      "valid": true
+    },
+    {
+      "name": "Durfait Isles",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.475",
+      "valid": true
+    },
+    {
+      "name": "Elephant Graveyard",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.775",
+      "valid": true
+    },
+    {
+      "name": "Emerald Crater",
+      "size": "20x20",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.55",
+      "valid": true
+    },
+    {
+      "name": "Eridani",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.3",
+      "valid": true
+    },
+    {
+      "name": "Esgaroth's Ruins",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.55",
+      "valid": true
+    },
+    {
+      "name": "Eye of the Storm",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "4",
+      "valid": true
+    },
+    {
+      "name": "Fancylands",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.85",
+      "valid": true
+    },
+    {
+      "name": "Farce in tha Forest",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.425",
+      "valid": true
+    },
+    {
+      "name": "Festea VII",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.475",
+      "valid": true
+    },
+    {
+      "name": "Fields Of Great Phoenix",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.6",
+      "valid": true
+    },
+    {
+      "name": "Fields of Isis",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.7",
+      "valid": true
+    },
+    {
+      "name": "Fields of Thunder v2",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.7",
+      "valid": true
+    },
+    {
+      "name": "Finn's Revenge",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.1",
+      "valid": true
+    },
+    {
+      "name": "Firelight",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.15",
+      "valid": true
+    },
+    {
+      "name": "Fitzugo",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.95",
+      "valid": true
+    },
+    {
+      "name": "Forbidden Pass v4",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "4.25",
+      "valid": true
+    },
+    {
+      "name": "ForestPlanet FA V2b",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.25",
+      "valid": true
+    },
+    {
+      "name": "Forgotten Dunes",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.3",
+      "valid": true
+    },
+    {
+      "name": "Forgotten Facilities 10x10",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.7",
+      "valid": true
+    },
+    {
+      "name": "Four-Corners",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.4",
+      "valid": true
+    },
+    {
+      "name": "Four-Leaf Clover",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.775",
+      "valid": true
+    },
+    {
+      "name": "Fractal Cancer",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.3",
+      "valid": true
+    },
+    {
+      "name": "Frithen",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.15",
+      "valid": true
+    },
+    {
+      "name": "Frost Ravine v1bf",
+      "size": "40x40",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.175",
+      "valid": true
+    },
+    {
+      "name": "Frostbite",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.275",
+      "valid": true
+    },
+    {
+      "name": "Fundamental 2vs2",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.15",
+      "valid": true
+    },
+    {
+      "name": "Gap of Rohan",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": true,
+      "Tscore": "1.85",
+      "valid": true
+    },
+    {
+      "name": "Goodlands",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.25",
+      "valid": true
+    },
+    {
+      "name": "Grave Passages",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": true,
+      "Tscore": "1.775",
+      "valid": true
+    },
+    {
+      "name": "Greenlands Bridge",
+      "size": "10x10",
+      "category": "new",
+      "broken": true,
+      "Tscore": "2.45",
+      "valid": true
+    },
+    {
+      "name": "Hammada",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.65",
+      "valid": true
+    },
+    {
+      "name": "HardFFA",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "1.875",
+      "valid": true
+    },
+    {
+      "name": "Haven Reef Fixed",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "3.1",
+      "valid": true
+    },
+    {
+      "name": "Hexagonian Drylands",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "3.075",
+      "valid": true
+    },
+    {
+      "name": "High Noon",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.25",
+      "valid": true
+    },
+    {
+      "name": "Hollow",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.7",
+      "valid": true
+    },
+    {
+      "name": "Hrungdaks Canyon 3v3",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.55",
+      "valid": true
+    },
+    {
+      "name": "Hypothermia",
+      "size": "5x5",
+      "category": "new",
+      "broken": true,
+      "Tscore": "2.95",
+      "valid": true
+    },
+    {
+      "name": "Island Zero",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.725",
+      "valid": true
+    },
+    {
+      "name": "Jagged Subsidence",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "3.2",
+      "valid": true
+    },
+    {
+      "name": "Jungle Pit",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.7",
+      "valid": true
+    },
+    {
+      "name": "Jungle Valley v2",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.125",
+      "valid": true
+    },
+    {
+      "name": "Karnage",
+      "size": "10x10",
+      "category": "common",
+      "broken": true,
+      "Tscore": "2.375",
+      "valid": true
+    },
+    {
+      "name": "Kazam v2",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "1.05",
+      "valid": true
+    },
+    {
+      "name": "Krossfire",
+      "size": "20x20",
+      "category": "new",
+      "broken": true,
+      "Tscore": "3.6",
+      "valid": true
+    },
+    {
+      "name": "Last Oasis",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.625",
+      "valid": true
+    },
+    {
+      "name": "Loki",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "4.05",
+      "valid": true
+    },
+    {
+      "name": "Luna",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": true,
+      "Tscore": "1.3",
+      "valid": true
+    },
+    {
+      "name": "Marrocks Desert",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "0.925",
+      "valid": true
+    },
+    {
+      "name": "Melted Duel",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.65",
+      "valid": true
+    },
+    {
+      "name": "Monaki",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.3",
+      "valid": true
+    },
+    {
+      "name": "Monotonous",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.5625",
+      "valid": true
+    },
+    {
+      "name": "Monster Girl Arena",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.325",
+      "valid": true
+    },
+    {
+      "name": "Moonlight",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.4",
+      "valid": true
+    },
+    {
+      "name": "Moonlight Mesas",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.225",
+      "valid": true
+    },
+    {
+      "name": "Moonlight Pass",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.65",
+      "valid": true
+    },
+    {
+      "name": "Moonshine",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.4",
+      "valid": true
+    },
+    {
+      "name": "Mountain Lake (small)",
+      "size": "10x10",
+      "category": "new",
+      "broken": true,
+      "Tscore": "3.05",
+      "valid": true
+    },
+    {
+      "name": "Mountain Pasture",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.5",
+      "valid": true
+    },
+    {
+      "name": "mountain_lakes",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.225",
+      "valid": true
+    },
+    {
+      "name": "Niflheim - Final II v2",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.625",
+      "valid": true
+    },
+    {
+      "name": "Nightedge",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.875",
+      "valid": true
+    },
+    {
+      "name": "Norfair",
+      "size": "20x20",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.825",
+      "valid": true
+    },
+    {
+      "name": "Oc-Tal V2",
+      "size": "10x10",
+      "category": "common",
+      "broken": true,
+      "Tscore": "1.85",
+      "valid": true
+    },
+    {
+      "name": "Ocil Wetlands",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.55",
+      "valid": true
+    },
+    {
+      "name": "OctoClops",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.9",
+      "valid": true
+    },
+    {
+      "name": "On Melancholy Hillv3",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.35",
+      "valid": true
+    },
+    {
+      "name": "Open Combat",
+      "size": "5x5",
+      "category": "new",
+      "broken": true,
+      "Tscore": "1.9",
+      "valid": true
+    },
+    {
+      "name": "Open Isis",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.5",
+      "valid": true
+    },
+    {
+      "name": "Open Palms",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "4.025",
+      "valid": true
+    },
+    {
+      "name": "Open Waters V2",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.05",
+      "valid": true
+    },
+    {
+      "name": "Open Zeta",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2",
+      "valid": true
+    },
+    {
+      "name": "Optima Ferox",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.05",
+      "valid": true
+    },
+    {
+      "name": "Osiris",
+      "size": "20x20",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.4",
+      "valid": true
+    },
+    {
+      "name": "Owly Cliffs",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.825",
+      "valid": true
+    },
+    {
+      "name": "Painted Desert Rebalanced",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.45",
+      "valid": true
+    },
+    {
+      "name": "Paradise",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.875",
+      "valid": true
+    },
+    {
+      "name": "Paradise 3v3",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.575",
+      "valid": true
+    },
+    {
+      "name": "Paradisum",
+      "size": "20x20",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.45",
+      "valid": true
+    },
+    {
+      "name": "Pelagial v2",
+      "size": "20x20",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.55",
+      "valid": true
+    },
+    {
+      "name": "Planet Zorg",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "1.3",
+      "valid": true
+    },
+    {
+      "name": "plateaus_small",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.625",
+      "valid": true
+    },
+    {
+      "name": "Point of Reach v4",
+      "size": "20x20",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.55",
+      "valid": true
+    },
+    {
+      "name": "Polar Depression",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "0",
+      "valid": false
+    },
+    {
+      "name": "Polar Range",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.5",
+      "valid": true
+    },
+    {
+      "name": "Projekt_I",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "0.9",
+      "valid": true
+    },
+    {
+      "name": "Prowess",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "0.75",
+      "valid": true
+    },
+    {
+      "name": "Pyrocumulus v3",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.05",
+      "valid": true
+    },
+    {
+      "name": "Quantum Sea",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "1.95",
+      "valid": true
+    },
+    {
+      "name": "Red Rocks",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.7",
+      "valid": true
+    },
+    {
+      "name": "Regor VI Highlands",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.525",
+      "valid": true
+    },
+    {
+      "name": "River Crossing 1v1",
+      "size": "10x10",
+      "category": "new",
+      "broken": true,
+      "Tscore": "0",
+      "valid": false
+    },
+    {
+      "name": "Roanoke Abyss",
+      "size": "20x20",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.175",
+      "valid": true
+    },
+    {
+      "name": "Ruined City",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.275",
+      "valid": true
+    },
+    {
+      "name": "Salembay",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.05",
+      "valid": true
+    },
+    {
+      "name": "Saltrock Colony",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.95",
+      "valid": true
+    },
+    {
+      "name": "Sands of Ablicka",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": true,
+      "Tscore": "3",
+      "valid": true
+    },
+    {
+      "name": "Sathira Beach v2",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "1.5",
+      "valid": true
+    },
+    {
+      "name": "Selkie Isle",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": true,
+      "Tscore": "3.1",
+      "valid": true
+    },
+    {
+      "name": "semiflooded Niflheim",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.25",
+      "valid": true
+    },
+    {
+      "name": "Sentry Point",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.55",
+      "valid": true
+    },
+    {
+      "name": "Seraphim Glaciers",
+      "size": "20x20",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3",
+      "valid": true
+    },
+    {
+      "name": "Seraphim Outpost",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.125",
+      "valid": true
+    },
+    {
+      "name": "serenity desert",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.85",
+      "valid": true
+    },
+    {
+      "name": "Seton's Clutch",
+      "size": "20x20",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "4.075",
+      "valid": true
+    },
+    {
+      "name": "Shard",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.7",
+      "valid": true
+    },
+    {
+      "name": "Shoal",
+      "size": "20x20",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.125",
+      "valid": true
+    },
+    {
+      "name": "Siege Island 2v2",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "1.85",
+      "valid": true
+    },
+    {
+      "name": "Sirgis",
+      "size": "20x20",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.6",
+      "valid": true
+    },
+    {
+      "name": "Sleipnir",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.975",
+      "valid": true
+    },
+    {
+      "name": "Sludge",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.7",
+      "valid": true
+    },
+    {
+      "name": "Snake Rift",
+      "size": "20x20",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.45",
+      "valid": true
+    },
+    {
+      "name": "Snoey Triangle",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "1.525",
+      "valid": true
+    },
+    {
+      "name": "Snowy Freek Willem ",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.825",
+      "valid": true
+    },
+    {
+      "name": "Souvenir",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.3",
+      "valid": true
+    },
+    {
+      "name": "Spine of Zeus",
+      "size": "20x20",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2",
+      "valid": true
+    },
+    {
+      "name": "Stairs to Heaven",
+      "size": "20x20",
+      "category": "new",
+      "broken": true,
+      "Tscore": "2",
+      "valid": true
+    },
+    {
+      "name": "Standing Stones",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.7",
+      "valid": true
+    },
+    {
+      "name": "Stella Maris WM 1v1",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.4",
+      "valid": true
+    },
+    {
+      "name": "Strife of Titan",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "3.05",
+      "valid": true
+    },
+    {
+      "name": "Summer Duel",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "1.95",
+      "valid": true
+    },
+    {
+      "name": "Summit",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.475",
+      "valid": true
+    },
+    {
+      "name": "Sung Island",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": true,
+      "Tscore": "2.8",
+      "valid": true
+    },
+    {
+      "name": "Superior Syrtis V2",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.55",
+      "valid": true
+    },
+    {
+      "name": "Syrtis Major",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.775",
+      "valid": true
+    },
+    {
+      "name": "Tabula rasa no reclaim",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.25",
+      "valid": true
+    },
+    {
+      "name": "TAG Voi Vittu v2",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.8",
+      "valid": true
+    },
+    {
+      "name": "TAG_Craftious Maximus",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "4.375",
+      "valid": true
+    },
+    {
+      "name": "The Bermuda Locket",
+      "size": "20x20",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.95",
+      "valid": true
+    },
+    {
+      "name": "The Cold Place",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.25",
+      "valid": true
+    },
+    {
+      "name": "The Dark Heart, FAF version",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.7",
+      "valid": true
+    },
+    {
+      "name": "The Ditch",
+      "size": "20x20",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.2",
+      "valid": true
+    },
+    {
+      "name": "The Drunken Beetles Dance",
+      "size": "20x20",
+      "category": "common",
+      "broken": true,
+      "Tscore": "2.725",
+      "valid": true
+    },
+    {
+      "name": "The Ganges Chasma",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.825",
+      "valid": true
+    },
+    {
+      "name": "The land wilderness V3",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.7",
+      "valid": true
+    },
+    {
+      "name": "The Longest Way",
+      "size": "20x20",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.55",
+      "valid": true
+    },
+    {
+      "name": "The Pyramid 3v3",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.9",
+      "valid": true
+    },
+    {
+      "name": "The Pyramid V2",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.275",
+      "valid": true
+    },
+    {
+      "name": "The Requisite",
+      "size": "20x20",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.55",
+      "valid": true
+    },
+    {
+      "name": "The Scar",
+      "size": "20x20",
+      "category": "classic",
+      "broken": true,
+      "Tscore": "4",
+      "valid": true
+    },
+    {
+      "name": "The Two Peaks",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.25",
+      "valid": true
+    },
+    {
+      "name": "Therum",
+      "size": "20x20",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.8",
+      "valid": true
+    },
+    {
+      "name": "Theta Passage",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.7",
+      "valid": true
+    },
+    {
+      "name": "Theta Passage 5",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.75",
+      "valid": true
+    },
+    {
+      "name": "Tofina Night",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.85",
+      "valid": true
+    },
+    {
+      "name": "Triple Shuriken",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.125",
+      "valid": true
+    },
+    {
+      "name": "Triple T V8",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.9",
+      "valid": true
+    },
+    {
+      "name": "Twin Rivers",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.55",
+      "valid": true
+    },
+    {
+      "name": "Ultra",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.475",
+      "valid": true
+    },
+    {
+      "name": "Vale of Isis",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.55",
+      "valid": true
+    },
+    {
+      "name": "Valenvaryon",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3",
+      "valid": true
+    },
+    {
+      "name": "Varga Pass",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.925",
+      "valid": true
+    },
+    {
+      "name": "Veni",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3",
+      "valid": true
+    },
+    {
+      "name": "Vici",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.3",
+      "valid": true
+    },
+    {
+      "name": "Virginfell",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "3.25",
+      "valid": true
+    },
+    {
+      "name": "Viridium",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.95",
+      "valid": true
+    },
+    {
+      "name": "Virmire",
+      "size": "20x20",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.025",
+      "valid": true
+    },
+    {
+      "name": "Volcano Duel",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.3",
+      "valid": true
+    },
+    {
+      "name": "Vulcan's Reach",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.25",
+      "valid": true
+    },
+    {
+      "name": "Vya-3 Protectorate",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.3",
+      "valid": true
+    },
+    {
+      "name": "White Fire v2",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3",
+      "valid": true
+    },
+    {
+      "name": "Williamson's Bridge",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.75",
+      "valid": true
+    },
+    {
+      "name": "Winter Duel",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.2",
+      "valid": true
+    },
+    {
+      "name": "x6 1v1",
+      "size": "20x20",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3",
+      "valid": true
+    },
+    {
+      "name": "Ythalassa",
+      "size": "20x20",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.55",
+      "valid": true
+    },
+    {
+      "name": "Z-D Rasty",
+      "size": "10x10",
+      "category": "common",
+      "broken": true,
+      "Tscore": "3",
+      "valid": true
+    },
+    {
+      "name": "Z-D Rasty Lite",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.625",
+      "valid": true
+    },
+    {
+      "name": "Zeuthea Valley",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "0",
+      "valid": false
+    },
+    {
+      "name": "Zorg Rampage",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "1.525",
+      "valid": true
+    },
+    {
+      "name": "Zwaffel",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "0.9",
+      "valid": false
+    },
+    {
+      "name": "Unbarred",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.15",
+      "valid": true
+    }
+  ]
+}

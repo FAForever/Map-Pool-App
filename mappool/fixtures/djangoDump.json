@@ -1,0 +1,2786 @@
+[
+  {
+    "pk": 1,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "2v2 Boogie-Woogie",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.375",
+      "valid": true
+    }
+  },
+  {
+    "pk": 2,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "6-Icelands_v5",
+      "size": "10x10",
+      "category": "common",
+      "broken": true,
+      "Tscore": "2.9",
+      "valid": true
+    }
+  },
+  {
+    "pk": 3,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "8 - Badlands_v4",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.575",
+      "valid": true
+    }
+  },
+  {
+    "pk": 4,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Abhor",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.7",
+      "valid": true
+    }
+  },
+  {
+    "pk": 5,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Abis Garden 1v1",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.2",
+      "valid": true
+    }
+  },
+  {
+    "pk": 6,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "AdaptiveActavia",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.65",
+      "valid": true
+    }
+  },
+  {
+    "pk": 7,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Africa",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.8",
+      "valid": true
+    }
+  },
+  {
+    "pk": 8,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Ambush Pass",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.95",
+      "valid": true
+    }
+  },
+  {
+    "pk": 9,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Anchor",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3",
+      "valid": true
+    }
+  },
+  {
+    "pk": 10,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Ancients Valley",
+      "size": "5x5",
+      "category": "new",
+      "broken": true,
+      "Tscore": "2.05",
+      "valid": true
+    }
+  },
+  {
+    "pk": 11,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Apchui",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.45",
+      "valid": true
+    }
+  },
+  {
+    "pk": 12,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Aperture Laboratories",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": true,
+      "Tscore": "2.775",
+      "valid": true
+    }
+  },
+  {
+    "pk": 13,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Arcane",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.275",
+      "valid": true
+    }
+  },
+  {
+    "pk": 14,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Arctic Refuge",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.55",
+      "valid": true
+    }
+  },
+  {
+    "pk": 15,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Ares",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.9375",
+      "valid": true
+    }
+  },
+  {
+    "pk": 16,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Asteria",
+      "size": "20x20",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.25",
+      "valid": true
+    }
+  },
+  {
+    "pk": 17,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Asyut Canals",
+      "size": "20x20",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.55",
+      "valid": true
+    }
+  },
+  {
+    "pk": 18,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Auralian - The Core",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.125",
+      "valid": true
+    }
+  },
+  {
+    "pk": 19,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Averus",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.025",
+      "valid": true
+    }
+  },
+  {
+    "pk": 20,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Balmy",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "1.75",
+      "valid": true
+    }
+  },
+  {
+    "pk": 21,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Balvery Mountains V2",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.2",
+      "valid": true
+    }
+  },
+  {
+    "pk": 22,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Balvery Mountains V4b",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.8",
+      "valid": true
+    }
+  },
+  {
+    "pk": 23,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Banana Beach",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.375",
+      "valid": true
+    }
+  },
+  {
+    "pk": 24,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Better Isis",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.95",
+      "valid": true
+    }
+  },
+  {
+    "pk": 25,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Blasted Rock",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.25",
+      "valid": true
+    }
+  },
+  {
+    "pk": 26,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "break V3",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "1.25",
+      "valid": true
+    }
+  },
+  {
+    "pk": 27,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Broken_Vows",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.5",
+      "valid": true
+    }
+  },
+  {
+    "pk": 28,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Burial",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.95",
+      "valid": true
+    }
+  },
+  {
+    "pk": 29,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Burial Mounds",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "1",
+      "valid": true
+    }
+  },
+  {
+    "pk": 30,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Cadmium Green",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.55",
+      "valid": true
+    }
+  },
+  {
+    "pk": 31,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Callisto",
+      "size": "5x5",
+      "category": "new",
+      "broken": true,
+      "Tscore": "2.15",
+      "valid": true
+    }
+  },
+  {
+    "pk": 32,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Canaveral",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.25",
+      "valid": true
+    }
+  },
+  {
+    "pk": 33,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "canis 4v4 spezial edition",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.25",
+      "valid": true
+    }
+  },
+  {
+    "pk": 34,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Canis 4v4 Spread Edition",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": true,
+      "Tscore": "2.7",
+      "valid": true
+    }
+  },
+  {
+    "pk": 35,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Canis Decals Edition 4v4",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.275",
+      "valid": true
+    }
+  },
+  {
+    "pk": 36,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Canis River",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.7",
+      "valid": true
+    }
+  },
+  {
+    "pk": 37,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Cepheus",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "1.8",
+      "valid": true
+    }
+  },
+  {
+    "pk": 38,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Chiron",
+      "size": "20x20",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.6",
+      "valid": true
+    }
+  },
+  {
+    "pk": 39,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Cloud Kingdom LE",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.15",
+      "valid": true
+    }
+  },
+  {
+    "pk": 40,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Cobalt Valley",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "4",
+      "valid": true
+    }
+  },
+  {
+    "pk": 41,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Coldfire Crossing",
+      "size": "20x20",
+      "category": "new",
+      "broken": false,
+      "Tscore": "4",
+      "valid": true
+    }
+  },
+  {
+    "pk": 42,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Comet Catcher",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.025",
+      "valid": true
+    }
+  },
+  {
+    "pk": 43,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Comet Catcher V2",
+      "size": "10x10",
+      "category": "common",
+      "broken": true,
+      "Tscore": "2.575",
+      "valid": true
+    }
+  },
+  {
+    "pk": 44,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Concord Lake",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "3.25",
+      "valid": true
+    }
+  },
+  {
+    "pk": 45,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "corporation_small",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.75",
+      "valid": true
+    }
+  },
+  {
+    "pk": 46,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Crag Drunes",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.25",
+      "valid": true
+    }
+  },
+  {
+    "pk": 47,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Crashing Waves",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.8",
+      "valid": true
+    }
+  },
+  {
+    "pk": 48,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "crazyrush",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.5",
+      "valid": true
+    }
+  },
+  {
+    "pk": 49,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Crimson Feud",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.25",
+      "valid": true
+    }
+  },
+  {
+    "pk": 50,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Crossfire Canal",
+      "size": "20x20",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "4.425",
+      "valid": true
+    }
+  },
+  {
+    "pk": 51,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Darkfall",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "3.25",
+      "valid": true
+    }
+  },
+  {
+    "pk": 52,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Daroza's Sanctuary",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.7",
+      "valid": true
+    }
+  },
+  {
+    "pk": 53,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "desert arena",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.3",
+      "valid": true
+    }
+  },
+  {
+    "pk": 54,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Desert Joust",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.8",
+      "valid": true
+    }
+  },
+  {
+    "pk": 55,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Desert Planet II v2",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.8",
+      "valid": true
+    }
+  },
+  {
+    "pk": 56,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Devils Landings Ladder",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "1.525",
+      "valid": true
+    }
+  },
+  {
+    "pk": 57,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Dirty_Mounds",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.175",
+      "valid": true
+    }
+  },
+  {
+    "pk": 58,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Diversity",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.25",
+      "valid": true
+    }
+  },
+  {
+    "pk": 59,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Dragon River 1vs1",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.125",
+      "valid": true
+    }
+  },
+  {
+    "pk": 60,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Dry Canyon v3",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "1.7",
+      "valid": true
+    }
+  },
+  {
+    "pk": 61,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Dual Arches",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": true,
+      "Tscore": "2.85",
+      "valid": true
+    }
+  },
+  {
+    "pk": 62,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Durfait Isles",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.475",
+      "valid": true
+    }
+  },
+  {
+    "pk": 63,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Elephant Graveyard",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.775",
+      "valid": true
+    }
+  },
+  {
+    "pk": 64,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Emerald Crater",
+      "size": "20x20",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.55",
+      "valid": true
+    }
+  },
+  {
+    "pk": 65,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Eridani",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.3",
+      "valid": true
+    }
+  },
+  {
+    "pk": 66,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Esgaroth's Ruins",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.55",
+      "valid": true
+    }
+  },
+  {
+    "pk": 67,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Eye of the Storm",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "4",
+      "valid": true
+    }
+  },
+  {
+    "pk": 68,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Fancylands",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.85",
+      "valid": true
+    }
+  },
+  {
+    "pk": 69,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Farce in tha Forest",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.425",
+      "valid": true
+    }
+  },
+  {
+    "pk": 70,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Festea VII",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.475",
+      "valid": true
+    }
+  },
+  {
+    "pk": 71,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Fields Of Great Phoenix",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.6",
+      "valid": true
+    }
+  },
+  {
+    "pk": 72,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Fields of Isis",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.7",
+      "valid": true
+    }
+  },
+  {
+    "pk": 73,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Fields of Thunder v2",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.7",
+      "valid": true
+    }
+  },
+  {
+    "pk": 74,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Finn's Revenge",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.1",
+      "valid": true
+    }
+  },
+  {
+    "pk": 75,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Firelight",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.15",
+      "valid": true
+    }
+  },
+  {
+    "pk": 76,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Fitzugo",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.95",
+      "valid": true
+    }
+  },
+  {
+    "pk": 77,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Forbidden Pass v4",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "4.25",
+      "valid": true
+    }
+  },
+  {
+    "pk": 78,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "ForestPlanet FA V2b",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.25",
+      "valid": true
+    }
+  },
+  {
+    "pk": 79,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Forgotten Dunes",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.3",
+      "valid": true
+    }
+  },
+  {
+    "pk": 80,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Forgotten Facilities 10x10",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.7",
+      "valid": true
+    }
+  },
+  {
+    "pk": 81,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Four-Corners",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.4",
+      "valid": true
+    }
+  },
+  {
+    "pk": 82,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Four-Leaf Clover",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.775",
+      "valid": true
+    }
+  },
+  {
+    "pk": 83,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Fractal Cancer",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.3",
+      "valid": true
+    }
+  },
+  {
+    "pk": 84,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Frithen",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.15",
+      "valid": true
+    }
+  },
+  {
+    "pk": 85,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Frost Ravine v1bf",
+      "size": "40x40",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.175",
+      "valid": true
+    }
+  },
+  {
+    "pk": 86,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Frostbite",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.275",
+      "valid": true
+    }
+  },
+  {
+    "pk": 87,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Fundamental 2vs2",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.15",
+      "valid": true
+    }
+  },
+  {
+    "pk": 88,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Gap of Rohan",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": true,
+      "Tscore": "1.85",
+      "valid": true
+    }
+  },
+  {
+    "pk": 89,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Goodlands",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.25",
+      "valid": true
+    }
+  },
+  {
+    "pk": 90,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Grave Passages",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": true,
+      "Tscore": "1.775",
+      "valid": true
+    }
+  },
+  {
+    "pk": 91,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Greenlands Bridge",
+      "size": "10x10",
+      "category": "new",
+      "broken": true,
+      "Tscore": "2.45",
+      "valid": true
+    }
+  },
+  {
+    "pk": 92,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Hammada",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.65",
+      "valid": true
+    }
+  },
+  {
+    "pk": 93,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "HardFFA",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "1.875",
+      "valid": true
+    }
+  },
+  {
+    "pk": 94,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Haven Reef Fixed",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "3.1",
+      "valid": true
+    }
+  },
+  {
+    "pk": 95,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Hexagonian Drylands",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "3.075",
+      "valid": true
+    }
+  },
+  {
+    "pk": 96,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "High Noon",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.25",
+      "valid": true
+    }
+  },
+  {
+    "pk": 97,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Hollow",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.7",
+      "valid": true
+    }
+  },
+  {
+    "pk": 98,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Hrungdaks Canyon 3v3",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.55",
+      "valid": true
+    }
+  },
+  {
+    "pk": 99,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Hypothermia",
+      "size": "5x5",
+      "category": "new",
+      "broken": true,
+      "Tscore": "2.95",
+      "valid": true
+    }
+  },
+  {
+    "pk": 100,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Island Zero",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.725",
+      "valid": true
+    }
+  },
+  {
+    "pk": 101,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Jagged Subsidence",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "3.2",
+      "valid": true
+    }
+  },
+  {
+    "pk": 102,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Jungle Pit",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.7",
+      "valid": true
+    }
+  },
+  {
+    "pk": 103,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Jungle Valley v2",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.125",
+      "valid": true
+    }
+  },
+  {
+    "pk": 104,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Karnage",
+      "size": "10x10",
+      "category": "common",
+      "broken": true,
+      "Tscore": "2.375",
+      "valid": true
+    }
+  },
+  {
+    "pk": 105,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Kazam v2",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "1.05",
+      "valid": true
+    }
+  },
+  {
+    "pk": 106,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Krossfire",
+      "size": "20x20",
+      "category": "new",
+      "broken": true,
+      "Tscore": "3.6",
+      "valid": true
+    }
+  },
+  {
+    "pk": 107,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Last Oasis",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.625",
+      "valid": true
+    }
+  },
+  {
+    "pk": 108,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Loki",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "4.05",
+      "valid": true
+    }
+  },
+  {
+    "pk": 109,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Luna",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": true,
+      "Tscore": "1.3",
+      "valid": true
+    }
+  },
+  {
+    "pk": 110,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Marrocks Desert",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "0.925",
+      "valid": true
+    }
+  },
+  {
+    "pk": 111,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Melted Duel",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.65",
+      "valid": true
+    }
+  },
+  {
+    "pk": 112,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Monaki",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.3",
+      "valid": true
+    }
+  },
+  {
+    "pk": 113,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Monotonous",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.5625",
+      "valid": true
+    }
+  },
+  {
+    "pk": 114,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Monster Girl Arena",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.325",
+      "valid": true
+    }
+  },
+  {
+    "pk": 115,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Moonlight",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.4",
+      "valid": true
+    }
+  },
+  {
+    "pk": 116,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Moonlight Mesas",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.225",
+      "valid": true
+    }
+  },
+  {
+    "pk": 117,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Moonlight Pass",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.65",
+      "valid": true
+    }
+  },
+  {
+    "pk": 118,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Moonshine",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.4",
+      "valid": true
+    }
+  },
+  {
+    "pk": 119,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Mountain Lake (small)",
+      "size": "10x10",
+      "category": "new",
+      "broken": true,
+      "Tscore": "3.05",
+      "valid": true
+    }
+  },
+  {
+    "pk": 120,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Mountain Pasture",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.5",
+      "valid": true
+    }
+  },
+  {
+    "pk": 121,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "mountain_lakes",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.225",
+      "valid": true
+    }
+  },
+  {
+    "pk": 122,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Niflheim - Final II v2",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.625",
+      "valid": true
+    }
+  },
+  {
+    "pk": 123,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Nightedge",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.875",
+      "valid": true
+    }
+  },
+  {
+    "pk": 124,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Norfair",
+      "size": "20x20",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.825",
+      "valid": true
+    }
+  },
+  {
+    "pk": 125,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Oc-Tal V2",
+      "size": "10x10",
+      "category": "common",
+      "broken": true,
+      "Tscore": "1.85",
+      "valid": true
+    }
+  },
+  {
+    "pk": 126,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Ocil Wetlands",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.55",
+      "valid": true
+    }
+  },
+  {
+    "pk": 127,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "OctoClops",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.9",
+      "valid": true
+    }
+  },
+  {
+    "pk": 128,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "On Melancholy Hillv3",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.35",
+      "valid": true
+    }
+  },
+  {
+    "pk": 129,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Open Combat",
+      "size": "5x5",
+      "category": "new",
+      "broken": true,
+      "Tscore": "1.9",
+      "valid": true
+    }
+  },
+  {
+    "pk": 130,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Open Isis",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.5",
+      "valid": true
+    }
+  },
+  {
+    "pk": 131,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Open Palms",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "4.025",
+      "valid": true
+    }
+  },
+  {
+    "pk": 132,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Open Waters V2",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.05",
+      "valid": true
+    }
+  },
+  {
+    "pk": 133,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Open Zeta",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2",
+      "valid": true
+    }
+  },
+  {
+    "pk": 134,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Optima Ferox",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.05",
+      "valid": true
+    }
+  },
+  {
+    "pk": 135,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Osiris",
+      "size": "20x20",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.4",
+      "valid": true
+    }
+  },
+  {
+    "pk": 136,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Owly Cliffs",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.825",
+      "valid": true
+    }
+  },
+  {
+    "pk": 137,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Painted Desert Rebalanced",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.45",
+      "valid": true
+    }
+  },
+  {
+    "pk": 138,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Paradise",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.875",
+      "valid": true
+    }
+  },
+  {
+    "pk": 139,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Paradise 3v3",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.575",
+      "valid": true
+    }
+  },
+  {
+    "pk": 140,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Paradisum",
+      "size": "20x20",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.45",
+      "valid": true
+    }
+  },
+  {
+    "pk": 141,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Pelagial v2",
+      "size": "20x20",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.55",
+      "valid": true
+    }
+  },
+  {
+    "pk": 142,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Planet Zorg",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "1.3",
+      "valid": true
+    }
+  },
+  {
+    "pk": 143,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "plateaus_small",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.625",
+      "valid": true
+    }
+  },
+  {
+    "pk": 144,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Point of Reach v4",
+      "size": "20x20",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.55",
+      "valid": true
+    }
+  },
+  {
+    "pk": 145,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Polar Depression",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "0",
+      "valid": false
+    }
+  },
+  {
+    "pk": 146,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Polar Range",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.5",
+      "valid": true
+    }
+  },
+  {
+    "pk": 147,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Projekt_I",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "0.9",
+      "valid": true
+    }
+  },
+  {
+    "pk": 148,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Prowess",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "0.75",
+      "valid": true
+    }
+  },
+  {
+    "pk": 149,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Pyrocumulus v3",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.05",
+      "valid": true
+    }
+  },
+  {
+    "pk": 150,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Quantum Sea",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "1.95",
+      "valid": true
+    }
+  },
+  {
+    "pk": 151,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Red Rocks",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.7",
+      "valid": true
+    }
+  },
+  {
+    "pk": 152,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Regor VI Highlands",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.525",
+      "valid": true
+    }
+  },
+  {
+    "pk": 153,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "River Crossing 1v1",
+      "size": "10x10",
+      "category": "new",
+      "broken": true,
+      "Tscore": "0",
+      "valid": false
+    }
+  },
+  {
+    "pk": 154,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Roanoke Abyss",
+      "size": "20x20",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.175",
+      "valid": true
+    }
+  },
+  {
+    "pk": 155,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Ruined City",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.275",
+      "valid": true
+    }
+  },
+  {
+    "pk": 156,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Salembay",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.05",
+      "valid": true
+    }
+  },
+  {
+    "pk": 157,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Saltrock Colony",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.95",
+      "valid": true
+    }
+  },
+  {
+    "pk": 158,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Sands of Ablicka",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": true,
+      "Tscore": "3",
+      "valid": true
+    }
+  },
+  {
+    "pk": 159,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Sathira Beach v2",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "1.5",
+      "valid": true
+    }
+  },
+  {
+    "pk": 160,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Selkie Isle",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": true,
+      "Tscore": "3.1",
+      "valid": true
+    }
+  },
+  {
+    "pk": 161,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "semiflooded Niflheim",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.25",
+      "valid": true
+    }
+  },
+  {
+    "pk": 162,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Sentry Point",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.55",
+      "valid": true
+    }
+  },
+  {
+    "pk": 163,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Seraphim Glaciers",
+      "size": "20x20",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3",
+      "valid": true
+    }
+  },
+  {
+    "pk": 164,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Seraphim Outpost",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.125",
+      "valid": true
+    }
+  },
+  {
+    "pk": 165,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "serenity desert",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.85",
+      "valid": true
+    }
+  },
+  {
+    "pk": 166,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Seton's Clutch",
+      "size": "20x20",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "4.075",
+      "valid": true
+    }
+  },
+  {
+    "pk": 167,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Shard",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.7",
+      "valid": true
+    }
+  },
+  {
+    "pk": 168,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Shoal",
+      "size": "20x20",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.125",
+      "valid": true
+    }
+  },
+  {
+    "pk": 169,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Siege Island 2v2",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "1.85",
+      "valid": true
+    }
+  },
+  {
+    "pk": 170,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Sirgis",
+      "size": "20x20",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.6",
+      "valid": true
+    }
+  },
+  {
+    "pk": 171,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Sleipnir",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.975",
+      "valid": true
+    }
+  },
+  {
+    "pk": 172,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Sludge",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.7",
+      "valid": true
+    }
+  },
+  {
+    "pk": 173,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Snake Rift",
+      "size": "20x20",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.45",
+      "valid": true
+    }
+  },
+  {
+    "pk": 174,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Snoey Triangle",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "1.525",
+      "valid": true
+    }
+  },
+  {
+    "pk": 175,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Snowy Freek Willem ",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.825",
+      "valid": true
+    }
+  },
+  {
+    "pk": 176,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Souvenir",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.3",
+      "valid": true
+    }
+  },
+  {
+    "pk": 177,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Spine of Zeus",
+      "size": "20x20",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2",
+      "valid": true
+    }
+  },
+  {
+    "pk": 178,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Stairs to Heaven",
+      "size": "20x20",
+      "category": "new",
+      "broken": true,
+      "Tscore": "2",
+      "valid": true
+    }
+  },
+  {
+    "pk": 179,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Standing Stones",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.7",
+      "valid": true
+    }
+  },
+  {
+    "pk": 180,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Stella Maris WM 1v1",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.4",
+      "valid": true
+    }
+  },
+  {
+    "pk": 181,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Strife of Titan",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "3.05",
+      "valid": true
+    }
+  },
+  {
+    "pk": 182,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Summer Duel",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "1.95",
+      "valid": true
+    }
+  },
+  {
+    "pk": 183,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Summit",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.475",
+      "valid": true
+    }
+  },
+  {
+    "pk": 184,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Sung Island",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": true,
+      "Tscore": "2.8",
+      "valid": true
+    }
+  },
+  {
+    "pk": 185,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Superior Syrtis V2",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.55",
+      "valid": true
+    }
+  },
+  {
+    "pk": 186,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Syrtis Major",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.775",
+      "valid": true
+    }
+  },
+  {
+    "pk": 187,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Tabula rasa no reclaim",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.25",
+      "valid": true
+    }
+  },
+  {
+    "pk": 188,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "TAG Voi Vittu v2",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.8",
+      "valid": true
+    }
+  },
+  {
+    "pk": 189,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "TAG_Craftious Maximus",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "4.375",
+      "valid": true
+    }
+  },
+  {
+    "pk": 190,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "The Bermuda Locket",
+      "size": "20x20",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.95",
+      "valid": true
+    }
+  },
+  {
+    "pk": 191,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "The Cold Place",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.25",
+      "valid": true
+    }
+  },
+  {
+    "pk": 192,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "The Dark Heart, FAF version",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.7",
+      "valid": true
+    }
+  },
+  {
+    "pk": 193,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "The Ditch",
+      "size": "20x20",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.2",
+      "valid": true
+    }
+  },
+  {
+    "pk": 194,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "The Drunken Beetles Dance",
+      "size": "20x20",
+      "category": "common",
+      "broken": true,
+      "Tscore": "2.725",
+      "valid": true
+    }
+  },
+  {
+    "pk": 195,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "The Ganges Chasma",
+      "size": "5x5",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.825",
+      "valid": true
+    }
+  },
+  {
+    "pk": 196,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "The land wilderness V3",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.7",
+      "valid": true
+    }
+  },
+  {
+    "pk": 197,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "The Longest Way",
+      "size": "20x20",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.55",
+      "valid": true
+    }
+  },
+  {
+    "pk": 198,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "The Pyramid 3v3",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.9",
+      "valid": true
+    }
+  },
+  {
+    "pk": 199,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "The Pyramid V2",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.275",
+      "valid": true
+    }
+  },
+  {
+    "pk": 200,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "The Requisite",
+      "size": "20x20",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.55",
+      "valid": true
+    }
+  },
+  {
+    "pk": 201,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "The Scar",
+      "size": "20x20",
+      "category": "classic",
+      "broken": true,
+      "Tscore": "4",
+      "valid": true
+    }
+  },
+  {
+    "pk": 202,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "The Two Peaks",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.25",
+      "valid": true
+    }
+  },
+  {
+    "pk": 203,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Therum",
+      "size": "20x20",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.8",
+      "valid": true
+    }
+  },
+  {
+    "pk": 204,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Theta Passage",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.7",
+      "valid": true
+    }
+  },
+  {
+    "pk": 205,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Theta Passage 5",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.75",
+      "valid": true
+    }
+  },
+  {
+    "pk": 206,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Tofina Night",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.85",
+      "valid": true
+    }
+  },
+  {
+    "pk": 207,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Triple Shuriken",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.125",
+      "valid": true
+    }
+  },
+  {
+    "pk": 208,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Triple T V8",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.9",
+      "valid": true
+    }
+  },
+  {
+    "pk": 209,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Twin Rivers",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.55",
+      "valid": true
+    }
+  },
+  {
+    "pk": 210,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Ultra",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "1.475",
+      "valid": true
+    }
+  },
+  {
+    "pk": 211,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Vale of Isis",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.55",
+      "valid": true
+    }
+  },
+  {
+    "pk": 212,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Valenvaryon",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3",
+      "valid": true
+    }
+  },
+  {
+    "pk": 213,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Varga Pass",
+      "size": "10x10",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "2.925",
+      "valid": true
+    }
+  },
+  {
+    "pk": 214,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Veni",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3",
+      "valid": true
+    }
+  },
+  {
+    "pk": 215,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Vici",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.3",
+      "valid": true
+    }
+  },
+  {
+    "pk": 216,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Virginfell",
+      "size": "5x5",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "3.25",
+      "valid": true
+    }
+  },
+  {
+    "pk": 217,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Viridium",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.95",
+      "valid": true
+    }
+  },
+  {
+    "pk": 218,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Virmire",
+      "size": "20x20",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.025",
+      "valid": true
+    }
+  },
+  {
+    "pk": 219,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Volcano Duel",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "2.3",
+      "valid": true
+    }
+  },
+  {
+    "pk": 220,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Vulcan's Reach",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.25",
+      "valid": true
+    }
+  },
+  {
+    "pk": 221,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Vya-3 Protectorate",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.3",
+      "valid": true
+    }
+  },
+  {
+    "pk": 222,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "White Fire v2",
+      "size": "10x10",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3",
+      "valid": true
+    }
+  },
+  {
+    "pk": 223,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Williamson's Bridge",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "3.75",
+      "valid": true
+    }
+  },
+  {
+    "pk": 224,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Winter Duel",
+      "size": "5x5",
+      "category": "classic",
+      "broken": false,
+      "Tscore": "2.2",
+      "valid": true
+    }
+  },
+  {
+    "pk": 225,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "x6 1v1",
+      "size": "20x20",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3",
+      "valid": true
+    }
+  },
+  {
+    "pk": 226,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Ythalassa",
+      "size": "20x20",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.55",
+      "valid": true
+    }
+  },
+  {
+    "pk": 227,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Z-D Rasty",
+      "size": "10x10",
+      "category": "common",
+      "broken": true,
+      "Tscore": "3",
+      "valid": true
+    }
+  },
+  {
+    "pk": 228,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Z-D Rasty Lite",
+      "size": "10x10",
+      "category": "common",
+      "broken": false,
+      "Tscore": "3.625",
+      "valid": true
+    }
+  },
+  {
+    "pk": 229,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Zeuthea Valley",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "0",
+      "valid": false
+    }
+  },
+  {
+    "pk": 230,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Zorg Rampage",
+      "size": "20x20",
+      "category": "experimental",
+      "broken": false,
+      "Tscore": "1.525",
+      "valid": true
+    }
+  },
+  {
+    "pk": 231,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Zwaffel",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "0.9",
+      "valid": false
+    }
+  },
+  {
+    "pk": 232,
+    "model": "mappool.Map",
+    "fields": {
+      "name": "Unbarred",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.15",
+      "valid": true
+    }
+  }
+]
