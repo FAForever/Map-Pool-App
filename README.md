@@ -21,16 +21,14 @@ You will need python 3.6+, pip, pipenv and npm/yarn (pip 18.0 might throw except
 
 ### Local Development:
 
-Run over MapPoolApp/settings.py and change allowed hosts, debug mode and whatever you need.
-
-`python manage.py loaddata djangoDump.json` to populate a db from maps fixture. It's real map data pulled from the ladder team sheet. If you have access to it or have created your own sheet you can use the `fetchMapsIntoJson` method from mappool/extra_logic/maps to get an updated json.
+Run over MapPoolApp/settings.py and change allowed hosts, add secret key to .env, change debug mode and whatever you need.
+We use pipenv for virtual environment so just assume that you need to `pipenv shell` before running any python commands. `python manage.py loaddata djangoDump.json` to populate a db from maps fixture. It's real map data pulled from the ladder team sheet. If you have access to it or have created your own sheet you can use the `fetchMapsIntoJson` method from mappool/extra_logic/maps to get an updated json.
 
 
 #### Production-like environment
 ###### Using Heroku:
 
     -npm build
-    -python manage.py collectstatic
     -heroku local -f Procfile.windows / heroku local Procfile
 
 Project is configured for heroku deployment, if you have heroku CLI you can use `heroku local -f Procfile.windows` / `heroku local Procfile` to fire the commands in Procfile to launch the most close-to-production server available.
@@ -39,10 +37,9 @@ Project is configured for heroku deployment, if you have heroku CLI you can use 
 
     -npm build
     -pipenv shell
-    -python manage.py collectstatic
     -python manage.py runserver
 
-This will launch a django dev server. Basically the same as heroku method, just skipping some overhead that's useful if you are planning to deploy to heroku. Both of these methods are single-server, they serve static files from staticfiles folder in the root of this project. To see any change to them you will have to build and collectstatic again.
+This will launch a django dev server. Basically the same as heroku method, just skipping some overhead that's useful if you are planning to deploy to heroku. Both of these methods are single-server, they serve static files from build or staticfiles folder in the root of this project depending if you run `python manage.py collectstatic`. To see any change to them you will have to build again.
 
 #### Development environment
 ###### Two Development Servers:
