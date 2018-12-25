@@ -188,7 +188,8 @@ class MapPool:
             from . import gspread_fetch
         fetchedMaps = gspread_fetch.fetch()
         Maplist = []
-        for name, size, category, broken, Tscore, valid in zip(fetchedMaps[0], fetchedMaps[1], fetchedMaps[2], fetchedMaps[3], fetchedMaps[4], fetchedMaps[5]):
+        # zip to ensure it goes by the smallest list
+        for name, size, category, broken, Tscore, valid in zip(*fetchedMaps):
             __convertToPythonBool()
             Maplist.append(Map(name, size, category, broken, Tscore, valid))
         try:
@@ -219,6 +220,7 @@ class MapPool:
                 'common': sum(self.pool[6]),
                 'classic': sum(self.pool[7])
             }
+        # TODO refactor to raise custom exception that will be handled in models instead of returning a string
         except TypeError:
             return self.pool
         except Exception as ex:
