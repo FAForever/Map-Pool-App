@@ -154,6 +154,8 @@ SECURE_BROWSER_XSS_FILTER = True
 
 SECURE_CONTENT_TYPE_NOSNIFF = True
 
+APPEND_SLASH = True
+
 # For running locally on separate dev servers for frontend and backend
 # CORS_ORIGIN_ALLOW_ALL = True
 
