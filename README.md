@@ -28,14 +28,14 @@ We use pipenv for virtual environment so just assume that you need to `pipenv sh
 #### Production-like environment
 ###### Using Heroku:
 
-    -npm build
+    -npm run build
     -heroku local -f Procfile.windows / heroku local Procfile
 
 Project is configured for heroku deployment, if you have heroku CLI you can use `heroku local -f Procfile.windows` / `heroku local Procfile` to fire the commands in Procfile to launch the most close-to-production server available.
 
 ###### Without Heroku:
 
-    -npm build
+    -npm run build
     -pipenv shell
     -python manage.py runserver
 

@@ -76,7 +76,7 @@ class MapPoolViewSet(viewsets.ViewSet):
             except KeyError:
                 pass
             except Exception:
-                return 'Something went wrong.'
+                return 'Something went wrong. <1>'
         # Random type verification
         try:
             self.pool_args['randomType'] = int(request.query_params['randomType'])
@@ -87,7 +87,7 @@ class MapPoolViewSet(viewsets.ViewSet):
         except KeyError:
             pass
         except Exception:
-            return 'Something went wrong.'
+            return 'Something went wrong. <2>'
         # Pool size verification
         try:
             self.pool_args['poolSize'] = int(request.query_params['poolSize'])
@@ -98,7 +98,7 @@ class MapPoolViewSet(viewsets.ViewSet):
         except KeyError:
             pass
         except Exception:
-            return 'Something went wrong.'
+            return 'Something went wrong. <3>'
         # Min rating verification
         try:
             self.pool_args['minRating'] = float(request.query_params['minRating'])
@@ -109,7 +109,7 @@ class MapPoolViewSet(viewsets.ViewSet):
         except KeyError:
             pass
         except Exception:
-            return 'Something went wrong.'
+            return 'Something went wrong. <4>'
         # Size percents verification
         size_percent_sum = 0
         for size_percent in self.size_percents:
@@ -122,7 +122,7 @@ class MapPoolViewSet(viewsets.ViewSet):
             except KeyError:
                 size_percent_sum += self.pool_args[size_percent]
             except Exception:
-                return 'Something went wrong.'
+                return 'Something went wrong. <5>'
         if size_percent_sum != 100:
             return error_responses['size_percents']
         # Category percents verification
@@ -137,7 +137,7 @@ class MapPoolViewSet(viewsets.ViewSet):
             except KeyError:
                 cat_percent_sum += self.pool_args[cat_percent]
             except Exception:
-                return 'Something went wrong.'
+                return 'Something went wrong. <6>'
         if cat_percent_sum != 100:
             return error_responses['cat_percents']
         return None
@@ -150,7 +150,7 @@ class MapPoolViewSet(viewsets.ViewSet):
         try:
             pool = djangoPool(**self.pool_args)
         except Exception:
-            final_response = {'error_response': 'Something went wrong.'}
+            final_response = {'error_response': 'Something went wrong. <7>'}
 
         try:
             pool_modified = [{'id': i + 1, **map} for i, map in enumerate(pool['Pool'])]
@@ -158,7 +158,7 @@ class MapPoolViewSet(viewsets.ViewSet):
             # If not enough maps or something went wrong `pool` returns an error string
             final_response = {'error_response': pool}
         except Exception as ex:
-            final_response = {'error_response': 'Something went wrong.'}
+            final_response = {'error_response': 'Something went wrong. <8>'}
         else:
             final_response = {'extra_info': {'Average rating': pool['Average'],
                                              '5x5 count': pool['x5'],

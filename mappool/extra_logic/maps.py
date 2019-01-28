@@ -387,7 +387,7 @@ class MapPool:
         return [pool, sum(sizeCounter[0]), sum(sizeCounter[1]), sum(sizeCounter[2]), catCounter[0], catCounter[1], catCounter[2], catCounter[3]]
 
     def __weighTheMaps(self):
-        def __weightTheMapsBuildData():
+        def __weighTheMapsBuildData():
             if self.UseCatDict:
                 mapsToWeigh = self.catDict.values()
                 weightList = [[] for category in self.categories]
@@ -412,7 +412,7 @@ class MapPool:
         else:
             curved = True
             curveStrength = self.randomTypes.get(self.typeOfRandom)
-        mapsToWeigh, weightList, scoreSum = __weightTheMapsBuildData()
+        mapsToWeigh, weightList, scoreSum = __weighTheMapsBuildData()
         if curved is True:
             def floatScore(score):
                 return curveStrength**float(score) - 1
