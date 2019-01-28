@@ -149,7 +149,7 @@
       "size": "10x10",
       "category": "new",
       "broken": false,
-      "Tscore": "3.025",
+      "Tscore": "2.875",
       "valid": true
     },
     {
@@ -181,7 +181,7 @@
       "size": "5x5",
       "category": "new",
       "broken": false,
-      "Tscore": "2.375",
+      "Tscore": "2.25",
       "valid": true
     },
     {
@@ -253,7 +253,7 @@
       "size": "5x5",
       "category": "new",
       "broken": false,
-      "Tscore": "2.25",
+      "Tscore": "2.025",
       "valid": true
     },
     {
@@ -331,7 +331,7 @@
     {
       "name": "Comet Catcher",
       "size": "10x10",
-      "category": "common",
+      "category": "classic",
       "broken": false,
       "Tscore": "3.025",
       "valid": true
@@ -357,7 +357,7 @@
       "size": "10x10",
       "category": "experimental",
       "broken": false,
-      "Tscore": "2.75",
+      "Tscore": "2.225",
       "valid": true
     },
     {
@@ -367,6 +367,14 @@
       "broken": false,
       "Tscore": "2.25",
       "valid": true
+    },
+    {
+      "name": "Crash Site 1v1",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "0",
+      "valid": false
     },
     {
       "name": "Crashing Waves",
@@ -468,8 +476,8 @@
       "name": "Dragon River 1vs1",
       "size": "10x10",
       "category": "new",
-      "broken": false,
-      "Tscore": "3.125",
+      "broken": true,
+      "Tscore": "2.15",
       "valid": true
     },
     {
@@ -477,7 +485,7 @@
       "size": "10x10",
       "category": "classic",
       "broken": false,
-      "Tscore": "1.7",
+      "Tscore": "2.075",
       "valid": true
     },
     {
@@ -781,7 +789,7 @@
       "size": "10x10",
       "category": "experimental",
       "broken": false,
-      "Tscore": "2.55",
+      "Tscore": "2.1",
       "valid": true
     },
     {
@@ -791,6 +799,14 @@
       "broken": true,
       "Tscore": "2.95",
       "valid": true
+    },
+    {
+      "name": "Infected",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "0",
+      "valid": false
     },
     {
       "name": "Island Zero",
@@ -980,7 +996,7 @@
       "name": "Nightedge",
       "size": "5x5",
       "category": "new",
-      "broken": false,
+      "broken": true,
       "Tscore": "2.875",
       "valid": true
     },
@@ -1433,6 +1449,14 @@
       "valid": true
     },
     {
+      "name": "Starcraft",
+      "size": "5x5",
+      "category": "new",
+      "broken": false,
+      "Tscore": "2.525",
+      "valid": true
+    },
+    {
       "name": "Stella Maris WM 1v1",
       "size": "10x10",
       "category": "classic",
@@ -1681,6 +1705,14 @@
       "valid": true
     },
     {
+      "name": "Unbarred",
+      "size": "10x10",
+      "category": "new",
+      "broken": false,
+      "Tscore": "3.15",
+      "valid": true
+    },
+    {
       "name": "Vale of Isis",
       "size": "5x5",
       "category": "classic",
@@ -1708,7 +1740,7 @@
       "name": "Veni",
       "size": "5x5",
       "category": "new",
-      "broken": false,
+      "broken": true,
       "Tscore": "3",
       "valid": true
     },
@@ -1724,7 +1756,7 @@
       "name": "Virginfell",
       "size": "5x5",
       "category": "experimental",
-      "broken": false,
+      "broken": true,
       "Tscore": "3.25",
       "valid": true
     },
@@ -1847,14 +1879,6 @@
       "broken": false,
       "Tscore": "0.9",
       "valid": false
-    },
-    {
-      "name": "Unbarred",
-      "size": "10x10",
-      "category": "new",
-      "broken": false,
-      "Tscore": "3.15",
-      "valid": true
     }
   ]
 }

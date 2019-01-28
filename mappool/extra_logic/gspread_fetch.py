@@ -13,13 +13,14 @@ Uncomment for running locally with .env file, you will need to move each key-val
 there. And wrap private key in quotes so it doesn't escape the backslashes.
 """
 # load_dotenv()
+pkey = os.environ.get('private_key')
 
 # Using Heroku environment vars
 cred_dict = {
 	'type': os.environ.get('type'),
 	'project_id': os.environ.get('project_id'),
 	'private_key_id': os.environ.get('private_key_id'),
-	'private_key': os.environ.get('private_key'),
+	'private_key': pkey,
 	'client_email': os.environ.get('client_email'),
 	'client_id': os.environ.get('client_id'),
 	'auth_uri': os.environ.get('auth_uri'),
@@ -31,10 +32,16 @@ cred_dict = {
 # Authorization
 curPath = os.path.dirname(__file__)
 
-
-cred = ServiceAccountCredentials.from_json_keyfile_dict(cred_dict,
-														scope,
-														token_uri=os.environ.get('token_uri'))
+try:
+	cred = ServiceAccountCredentials.from_json_keyfile_dict(cred_dict,
+															scope,
+															token_uri=os.environ.get('token_uri'))
+except Exception:
+	pkey = os.environ.get('private_key').replace('\\n', '\n')
+	cred_dict['private_key'] = pkey
+	cred = ServiceAccountCredentials.from_json_keyfile_dict(cred_dict,
+															scope,
+															token_uri=os.environ.get('token_uri'))
 
 client = gspread.authorize(cred)
 
